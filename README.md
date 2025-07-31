@@ -33,6 +33,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 
 # 社会讨论
+## 事件评论
 | 时间 | 发言者 | 链接 | 备份 |
 |---|---|---|---|
 |2025.07.26|追风小叶|[类似事件合集第三期：武汉知名大学图书馆事件](https://www.bilibili.com/video/BV1MM88zsED5)||
@@ -42,7 +43,15 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.30|汤家凤|[武汉大学杨某的事情我说几句！](https://www.bilibili.com/video/BV1P8hcz6Eng)||
 |2025.07.30|183的冯律师|[武大图书馆男生被诬告事件，应该怎么合法保护自己权益？](https://www.bilibili.com/video/BV1hzhwzpEKp)||
 
+## 论文解析
 
+> 更多信息参考 [YJYpaper](https://github.com/zouzhekang/YJYpaper "一个用来记录武汉大学杨景媛论文问题的仓库")
+
+| 时间 | 发言者 | 链接 | 备份 |
+|---|---|---|---|
+|2025.07.29|水论文的程序猿|[武大杨某媛优秀硕士论文，惊现《离婚法》，惊现0.01%=千分之一，我也想去武汉大学读研，武大图书馆诬告事件](https://www.bilibili.com/video/BV14g8XzHEPV)||
+|2025.07.30|水论文的程序猿|[二探武大杨某媛优秀硕士论文，惊现2.1+3.2=5.4，本视频仅抱着学习借鉴的态度，武汉大学图书馆诬告事件](https://www.bilibili.com/video/BV1jShAzvEvB)||
+|2025.07.31|水论文的程序猿|[三探武大杨某媛“垃圾”硕士论文，不配“优秀”二字，武汉大学别装死了，早日把它下架息事宁人，武大图书馆诬告事件](https://www.bilibili.com/video/BV1y68yzZEHi)||
 
 # 杨景媛信息
 [杨景媛信息](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3138903812)
