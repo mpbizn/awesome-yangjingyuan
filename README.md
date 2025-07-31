@@ -11,12 +11,13 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 [“武大图书馆性骚扰事件”一审宣判！男生患PTSD，女生精神崩溃](https://finance.sina.cn/2025-07-26/detail-infhuzhs1977316.d.html?vt=4&cid=76729&node_id=76729)
 
 
-# 杨景媛介绍
+# 杨景媛信息
 [杨景媛信息](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3138903812)
 
 
 # 事实文件
 [湖北省武汉经济技术开发区人民法院民事判决书](https://github.com/ExposeYangJingyuan/judgment-of-yangjingyuan)
+
 [中印生育行为影响家庭暴力的经济学分析](https://github.com/zouzhekang/YJYpaper/blob/main/paper/YJYpaper.pdf)
 
 
