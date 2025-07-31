@@ -23,6 +23,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |[judgment-of-yangjingyuan](https://github.com/ExposeYangJingyuan/judgment-of-yangjingyuan)|杨景媛诉肖某某性骚扰损害责任纠纷一审民事判决书|
 |[exposeyangjingyuan.github.io](https://github.com/ExposeYangJingyuan/exposeyangjingyuan.github.io) | 杨景媛诉肖某某性骚扰损害责任纠纷一审民事判决书网站 |
 |[ReportYangJingYuang](https://github.com/TheChainFistofMan/ReportYangJingYuang) | 武汉性骚扰案诬告女杨景媛在浸信会大学Department of Accountancy, Economics and Finance未来的博士导师是: 占超群 |
+|[YangJY-AcadMisconduct](https://github.com/Estrella-Explore/YangJY-AcadMisconduct) | 🚀 WHU 杨景媛学术不端事件的详细信息 | 🚀 WHU 楊景媛學術不端事件的詳細資料 | 🚀 Detailed Information on the WHU Yang Jingyuan Academic Misconduct Case|
 |[YJYpaper](https://github.com/zouzhekang/YJYpaper) | 一个用来记录武汉大学杨景媛论文问题的仓库 |
 
 # 杨景媛信息
