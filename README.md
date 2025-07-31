@@ -11,9 +11,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 [“武大图书馆性骚扰事件”一审宣判！男生患PTSD，女生精神崩溃](https://finance.sina.cn/2025-07-26/detail-infhuzhs1977316.d.html?vt=4&cid=76729&node_id=76729) - Sina
 
 # 事实文件
-2023.10.11 - [武汉大学学工部关于性骚扰的情况说明](https://xgb.whu.edu.cn/info/1421/5091.htm) &nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231011.png)
+2023.10.11 - [武汉大学官网关于性骚扰的情况说明](https://xgb.whu.edu.cn/info/1421/5091.htm) &nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231011.png)
 
-2023.10.13 - [武汉大学学工部对肖某某的处理通报](https://xgb.whu.edu.cn/info/1421/5101.htm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231013.png)
+2023.10.13 - [武汉大学官网的处理通报](https://xgb.whu.edu.cn/info/1421/5101.htm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231013.png)
+
+2023.10.13 - [武汉大学记过处分文件](https://github.com/ExposeYangJingyuan/judgment-of-yangjingyuan/blob/main/%E5%85%B3%E4%BA%8E%E7%BB%99%E4%BA%88%E8%82%96%E6%9F%90%E6%9F%90%E8%AE%B0%E8%BF%87%E5%A4%84%E5%88%86%E7%9A%84%E5%86%B3%E5%AE%9A.jpg)
 
 2024.05 - [杨景媛硕士毕业论文 - 中印生育行为影响家庭暴力的经济学分析](https://github.com/zouzhekang/YJYpaper/blob/main/paper/YJYpaper.pdf)
 
