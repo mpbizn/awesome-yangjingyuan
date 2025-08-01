@@ -89,11 +89,13 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [如何看待武汉大学隐藏微博账号并删除处分肖同学通告？](https://www.zhihu.com/question/1933683517658731670)
 
+[武大称未关注到杨某某学术不端质疑](https://weibo.com/1323527941/PDDAQfbrq)
+
 [武大微博 - 翻过今天这页便是新章，明天自会带着晨光走来](https://m.weibo.cn/detail/5194250976233015)
 
 ### 2025.07.31
 
-[武大称未关注到杨某某学术不端质疑](https://weibo.com/1323527941/PDDAQfbrq)
+[武大回应法院驳回对性骚扰男生指控，工作人员表示：这边并不掌握学校对该事件最新的处理情况](https://cj.sina.com.cn/articles/view/5952915720/v162d249080670283a8)
 
 [武汉大学回应学术不端质疑称“未关注”](https://cj.sina.com.cn/articles/view/7096020433/1a6f4add106801dn5o)
 
