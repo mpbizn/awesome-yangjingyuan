@@ -118,6 +118,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 ### 2025.07.28
 [香港浸会大学回应近日媒体报道](https://m.weibo.cn/detail/5193454142620542)
 
+[香港浸会大学为什么不正面处理诬告女却把皮球踢给持续沉默的武大？](https://www.zhihu.com/question/1933644341206840599)
+
 # 群口啾唧
 ## 粉衣孙叔
 [如何评价答主「李然于心」在发布武汉大学女学生杨景媛论文造假事件相关视频后遭上门警告？](https://www.zhihu.com/question/1933690399068787181)
