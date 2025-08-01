@@ -60,6 +60,26 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.30|水论文的程序猿|[二探武大杨某媛优秀硕士论文，惊现2.1+3.2=5.4，本视频仅抱着学习借鉴的态度，武汉大学图书馆诬告事件](https://www.bilibili.com/video/BV1jShAzvEvB)||
 |2025.07.31|水论文的程序猿|[三探武大杨某媛“垃圾”硕士论文，不配“优秀”二字，武汉大学别装死了，早日把它下架息事宁人，武大图书馆诬告事件](https://www.bilibili.com/video/BV1y68yzZEHi)||
 
+# 相关高校
+## 武汉大学
+
+2025.07.22
+
+[如何看待武汉大学B站官号发布的动态「老柳蜩螗噪，荒庭熠熠流」，或暗讽网络舆论?](https://www.zhihu.com/question/1934023715462571246)
+
+2025.07.25
+
+[武大微博-波伏娃(原贴已删)](./resources/WHU/whu-bfw.png)
+
+[如何看待武汉大学官博发布波伏娃以及冻肉内容？](https://www.zhihu.com/question/1933450996719280624)
+
+2025.07.27 
+
+[如何看待武汉大学微博在近期分享冻肉保存相关知识?](https://www.zhihu.com/question/1932940742252270053)
+
+[武大微博-冻肉](https://m.weibo.cn/status/5192967519994708)
+
+
 # 群口啾唧
 ## 粉衣孙叔
 [如何评价答主「李然于心」在发布武汉大学女学生杨景媛论文造假事件相关视频后遭上门警告？](https://www.zhihu.com/question/1933690399068787181)
