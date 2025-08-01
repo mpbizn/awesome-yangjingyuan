@@ -63,22 +63,29 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 # 相关高校
 ## 武汉大学
 
-2025.07.22
+### 2025.07.22
 
 [如何看待武汉大学B站官号发布的动态「老柳蜩螗噪，荒庭熠熠流」，或暗讽网络舆论?](https://www.zhihu.com/question/1934023715462571246)
 
-2025.07.25
+### 2025.07.25
 
 [武大微博-波伏娃(原贴已删)](./resources/WHU/whu-bfw.png)
 
 [如何看待武汉大学官博发布波伏娃以及冻肉内容？](https://www.zhihu.com/question/1933450996719280624)
 
-2025.07.27 
+### 2025.07.27 
 
 [如何看待武汉大学微博在近期分享冻肉保存相关知识?](https://www.zhihu.com/question/1932940742252270053)
 
 [武大微博-冻肉](https://m.weibo.cn/status/5192967519994708)
 
+### 2025.07.30
+
+[如何看待武汉大学隐藏微博账号并删除处分肖同学通告？](https://www.zhihu.com/question/1933683517658731670)
+
+### 2025.07.31
+
+[如何评价武大诬告案相关问题已全部退出热榜（2025.07.31）?](https://www.zhihu.com/question/1934368222930506156)
 
 # 群口啾唧
 ## 粉衣孙叔
