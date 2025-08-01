@@ -56,6 +56,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.31|严锋（复旦）|[复旦大学教授谈“武大图书馆”事件：提告方欺人太甚，校方处分不当](https://m.sohu.com/a/919389733_119778)||
 |2025.08.01|海上生明月1566|[武汉大学，文科已死](https://tieba.baidu.com/p/9917555950?pn=1)|[快照1](./resources/tieba/tieba01.jpg) [快照2](./resources/tieba/tieba02.jpg) [快照3](./resources/tieba/tieba03.jpg) [快照4](./resources/tieba/tieba04.jpg)|
 |2025.08.01|N/A|[武大图书馆性骚扰案，都编成相声了，太有才了！](https://www.bilibili.com/video/BV1b7hJzhE5j)||
+|2025.08.01|是小冰心啊|[小冰心，武汉大学的“毒妇”会坐牢吗？](https://www.bilibili.com/video/BV1WShnzbEGe)||
 
 ## 论文解析
 
