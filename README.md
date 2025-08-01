@@ -1,6 +1,8 @@
 > If you are neutral in situations of injustice, you have chosen the side of the oppressor.
->
 > <p align="right">— Desmond Tutu</p>
+>
+> 面对不公保持中立，等于站在压迫者一边。
+> <p align="right">— 德斯蒙德·图图</p>
 
 # awesome-yangjingyuan
 A curated collection of remarkable stories, images, and insights documenting Yang Jingyuan(杨景媛).
