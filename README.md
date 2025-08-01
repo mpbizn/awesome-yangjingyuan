@@ -54,7 +54,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.30|水论文的程序猿|[二探武大杨某媛优秀硕士论文，惊现2.1+3.2=5.4，本视频仅抱着学习借鉴的态度，武汉大学图书馆诬告事件](https://www.bilibili.com/video/BV1jShAzvEvB)||
 |2025.07.31|水论文的程序猿|[三探武大杨某媛“垃圾”硕士论文，不配“优秀”二字，武汉大学别装死了，早日把它下架息事宁人，武大图书馆诬告事件](https://www.bilibili.com/video/BV1y68yzZEHi)||
 
-# 粉衣孙叔
+# 群口啾唧
+## 粉衣孙叔
 [如何评价答主「李然于心」在发布武汉大学女学生杨景媛论文造假事件相关视频后遭上门警告？](https://www.zhihu.com/question/1933690399068787181)
 
 [「李然于心」被粉衣孙叔等四位蜀黍上门 20250729](https://www.bilibili.com/video/BV14V8CztEtV) &nbsp;&nbsp;&nbsp;&nbsp; [备份](./resources/Liranyuxin/李然于心01.mp4)
@@ -63,19 +64,27 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [「李然于心」第二次回应 20250731](https://www.bilibili.com/video/BV1G281zCEN2)  &nbsp;&nbsp;&nbsp;&nbsp; [备份](./resources/Liranyuxin/李然于心03.mp4)
 
+## 杨培云
+[如何看待杨培云律师力挺杨景媛？](https://www.zhihu.com/question/1934306597443723644)
+
+## 丁雅清
+[如何看待杨培云律师力挺杨景媛？](https://www.zhihu.com/question/1934306597443723644/answer/1934584216273805473)
+
 
 # 人员信息
 [杨景媛](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3138903812)
 
 [疑似家属](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3141256493)
 
-[杨景媛律师：丁雅清](https://baike.baidu.com/item/%E4%B8%81%E9%9B%85%E6%B8%85/50354712) &nbsp;&nbsp;&nbsp;&nbsp; [知乎](https://www.zhihu.com/question/1934306597443723644/answer/1934584216273805473) &nbsp;&nbsp;&nbsp;&nbsp; [快照](./resources/Dingyaqing/dyq.webp)
+[杨景媛律师：丁雅清 - 百度百科](https://baike.baidu.com/item/%E4%B8%81%E9%9B%85%E6%B8%85/50354712) &nbsp;&nbsp;&nbsp;&nbsp; [知乎](https://www.zhihu.com/people/ding-ya-qing/)
 
 - [丁雅清 - 广州律协](https://www.gzlawyer.org/lawyer/768cda7f630349ee8dbd092be4a1ae5a?siteType=mobile) &nbsp;&nbsp;&nbsp;&nbsp; [快照](./resources/Dingyaqing/gzlawyer.png)
 
 - [丁雅清 - 盈科律师事务所](https://www.yingkelawyer.com/zytd/view/d8d104e1d4297381.html) &nbsp;&nbsp;&nbsp;&nbsp; [快照](./resources/Dingyaqing/yingkelawyer.png)
 
 - [丁雅清 - 知恒律师事务所](http://www.zhihenglawyer.com/30/128) &nbsp;&nbsp;&nbsp;&nbsp; [快照](./resources/Dingyaqing/zhiheng.png)
+
+- [律师详情](./resources/Dingyaqing/dyq.webp)
 
 
 
