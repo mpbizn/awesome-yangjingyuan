@@ -71,7 +71,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 ### 2025.07.25
 
-[武大微博 - 波伏娃(原贴已删)](./resources/WHU/whu-bfw.png)
+[武大微博 - 波伏娃(原贴已删，此为备份)](./resources/WHU/whu-bfw.png)
 
 [如何看待武汉大学官博发布波伏娃以及冻肉内容？](https://www.zhihu.com/question/1933450996719280624)
 
