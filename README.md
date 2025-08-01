@@ -113,6 +113,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [武汉大学通报，对肖某某纪律处分、杨某某学位论文等进行全面调查复核，此次事件暴露了哪些问题？](https://www.zhihu.com/question/1934664649212683483)
 
+## 香港浸会大学
+
+### 2025.07.28
+[香港浸会大学回应近日媒体报道](https://m.weibo.cn/detail/5193454142620542)
+
 # 群口啾唧
 ## 粉衣孙叔
 [如何评价答主「李然于心」在发布武汉大学女学生杨景媛论文造假事件相关视频后遭上门警告？](https://www.zhihu.com/question/1933690399068787181)
