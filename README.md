@@ -83,7 +83,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 ### 2025.07.28
 
-[武汉大学微博开启「一键防护」]()
+[武汉大学微博开启「一键防护」](./resources/WHU/whu_weibo.jpg)
 
 ### 2025.07.30
 
