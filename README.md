@@ -75,6 +75,13 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 ## 杨培云
 [如何看待杨培云律师力挺杨景媛？](https://www.zhihu.com/question/1934306597443723644)
 
+[杨培云：官司败诉不等于诬告，武汉大学诬陷案的律师阴到没边了](https://www.bilibili.com/video/BV1Yyh7zNEny)
+
+[怎么看待杨培云律师就武汉大学事件为女生发言](https://www.bilibili.com/video/BV16Y81zpEXx)
+
+[本人现向浙江六善律所、杭州律协、杭州上城区**局举报杨培云律师](https://tieba.baidu.com/p/9919299508)
+
+
 ## 丁雅清
 [如何看待杨培云律师力挺杨景媛？](https://www.zhihu.com/question/1934306597443723644/answer/1934584216273805473)
 
@@ -104,8 +111,12 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 - [丁雅清 - 知恒律师事务所](http://www.zhihenglawyer.com/30/128) &nbsp;&nbsp;&nbsp;&nbsp; [快照](./resources/Dingyaqing/zhiheng.png)
 
-- [律师详情](./resources/Dingyaqing/dyq.webp)
+- [执业公示](./resources/Dingyaqing/dyq.webp)
 
+
+## 杨培云
+
+- [执业公示](./resources/YPY/YPY.jpg)
 
 
 
