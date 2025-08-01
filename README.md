@@ -83,6 +83,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [如何看待武汉大学隐藏微博账号并删除处分肖同学通告？](https://www.zhihu.com/question/1933683517658731670)
 
+[武大微博 - 翻过今天这页便是新章，明天自会带着晨光走来](https://m.weibo.cn/detail/5194250976233015)
+
 ### 2025.07.31
 
 [如何评价武大诬告案相关问题已全部退出热榜（2025.07.31）?](https://www.zhihu.com/question/1934368222930506156)
