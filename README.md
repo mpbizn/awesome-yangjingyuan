@@ -25,6 +25,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 2025.07.25 - [湖北省武汉经济技术开发区人民法院民事判决书](https://github.com/ExposeYangJingyuan/judgment-of-yangjingyuan) &nbsp;&nbsp; [Webp版](https://github.com/ExposeYangJingyuan/judgment-of-yangjingyuan/blob/main/%E4%B8%80%E5%AE%A1%E5%88%A4%E5%86%B3%E4%B9%A6%E6%89%AB%E6%8F%8F%E7%89%88.webp) &nbsp;&nbsp; [PDF版](resources/Court/OriginalInstance.pdf)
 
+2025.08.01 - [武汉大学 - 情况通报](https://www.whu.edu.cn/info/5231/257044.htm)
 
 # 相关仓库
 |仓库| 简介|
@@ -107,8 +108,6 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 [如何评价武大诬告案相关问题已全部退出热榜（2025.07.31）?](https://www.zhihu.com/question/1934368222930506156)
 
 ### 2025.08.01
-
-[武汉大学 - 情况通报](https://www.whu.edu.cn/info/5231/257044.htm)
 
 [武汉大学：已组建专班，正对肖某某纪律处分、杨某某学位论文等进行全面调查复核！充分尊重司法判决结果](https://www.nbd.com.cn/articles/2025-08-01/3998160.html)
 
