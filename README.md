@@ -74,13 +74,23 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 
 # 人员信息
-[杨景媛](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3138903812)
+## 杨景媛
+- [版本1](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3138903812) [备份](./resources/YJY/YJY01.pdf)
+
+- [版本2](https://github.com/zouzhekang/YJYpaper/issues/76#issue-3282285124)
 
 - 法律职业资格证书编号：A20214201061927 &nbsp;&nbsp;&nbsp;&nbsp; [2022年4月授予法律职业资格人员名单](https://www.moj.gov.cn/pub/sfbgwapp/zwgk/zwgkxzxk/202205/t20220523_455603.html) [备份(第1910页第1行)](./resources/YJY/202204.pdf)
 
-[疑似家属](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3141256493)
+## 疑似家属
+- [Telegram](https://t.me/zhinared/8145)
 
-[杨景媛律师：丁雅清 - 百度百科](https://baike.baidu.com/item/%E4%B8%81%E9%9B%85%E6%B8%85/50354712) &nbsp;&nbsp;&nbsp;&nbsp; [知乎](https://www.zhihu.com/people/ding-ya-qing/)
+- [Github](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3141256493) 
+
+## 杨景媛律师：丁雅清
+
+- [百度百科](https://baike.baidu.com/item/%E4%B8%81%E9%9B%85%E6%B8%85/50354712)
+
+- [知乎](https://www.zhihu.com/people/ding-ya-qing/)
 
 - [丁雅清 - 广州律协](https://www.gzlawyer.org/lawyer/768cda7f630349ee8dbd092be4a1ae5a?siteType=mobile) &nbsp;&nbsp;&nbsp;&nbsp; [快照](./resources/Dingyaqing/gzlawyer.png)
 
