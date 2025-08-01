@@ -45,6 +45,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.29|蔡雅奇|[武大图书馆诬告这类案子，你千万别以为与自己无关，别只做吃瓜群众](https://www.bilibili.com/video/BV1t889z4Eyp)||
 |2025.07.30|汤家凤|[武汉大学杨某的事情我说几句！](https://www.bilibili.com/video/BV1P8hcz6Eng)||
 |2025.07.30|183的冯律师|[武大图书馆男生被诬告事件，应该怎么合法保护自己权益？](https://www.bilibili.com/video/BV1hzhwzpEKp)||
+|2025.07.31|何联毅(清华)/赤石神殿|[江城大学图书馆事件: 短剧照进现实？霸凌者必将被反噬！](https://www.bilibili.com/video/BV1Jn8zzTEuD)||
+|2025.07.31|严锋（复旦）|[复旦大学教授谈“武大图书馆”事件：提告方欺人太甚，校方处分不当](https://m.sohu.com/a/919389733_119778)||
 |2025.08.01|海上生明月1566|[武汉大学，文科已死](https://tieba.baidu.com/p/9917555950?pn=1)|[备份1](./resources/tieba/tieba01.jpg) [备份2](./resources/tieba/tieba02.jpg) [备份3](./resources/tieba/tieba03.jpg) [备份4](./resources/tieba/tieba04.jpg)|
 
 ## 论文解析
