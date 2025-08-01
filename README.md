@@ -61,6 +61,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.29|水论文的程序猿|[武大杨某媛优秀硕士论文，惊现《离婚法》，惊现0.01%=千分之一，我也想去武汉大学读研，武大图书馆诬告事件](https://www.bilibili.com/video/BV14g8XzHEPV)||
 |2025.07.30|水论文的程序猿|[二探武大杨某媛优秀硕士论文，惊现2.1+3.2=5.4，本视频仅抱着学习借鉴的态度，武汉大学图书馆诬告事件](https://www.bilibili.com/video/BV1jShAzvEvB)||
 |2025.07.31|水论文的程序猿|[三探武大杨某媛“垃圾”硕士论文，不配“优秀”二字，武汉大学别装死了，早日把它下架息事宁人，武大图书馆诬告事件](https://www.bilibili.com/video/BV1y68yzZEHi)||
+|2025.08.01|水论文的程序猿|[四探武大“数学大师”杨某媛硕士论文，0.534=0.54，5.4-3.2=2.1，0.01%=1:1000，103亿下降到103亿，武大图书馆诬告事件，诚挚道歉](https://www.bilibili.com/video/BV1gehnzzENA)||
 
 # 相关高校
 ## 武汉大学
