@@ -69,7 +69,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [疑似家属](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3141256493)
 
-[杨景媛律师：丁雅清](https://baike.baidu.com/item/%E4%B8%81%E9%9B%85%E6%B8%85/50354712)
+[杨景媛律师：丁雅清](https://baike.baidu.com/item/%E4%B8%81%E9%9B%85%E6%B8%85/50354712) &nbsp;&nbsp;&nbsp;&nbsp; [知乎](https://www.zhihu.com/question/1934306597443723644/answer/1934584216273805473) &nbsp;&nbsp;&nbsp;&nbsp; [快照](./resources/Dingyaqing/dyq.webp)
 
 - [丁雅清 - 广州律协](https://www.gzlawyer.org/lawyer/768cda7f630349ee8dbd092be4a1ae5a?siteType=mobile) &nbsp;&nbsp;&nbsp;&nbsp; [快照](./resources/Dingyaqing/gzlawyer.png)
 
