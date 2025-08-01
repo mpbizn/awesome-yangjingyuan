@@ -66,6 +66,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [「李然于心」第二次回应 20250731](https://www.bilibili.com/video/BV1G281zCEN2)  &nbsp;&nbsp;&nbsp;&nbsp; [备份](./resources/Liranyuxin/李然于心03.mp4)
 
+## 武汉大学招生群
+[武大招生群踢人事件：不是哥们，武大老师这么刚的吗（帖子已被删除）](https://tieba.baidu.com/p/9916607023)
+
+- [备份1](./resources/WHU/WD01.jpeg) &nbsp;&nbsp; [备份2](./resources/WHU/WD02.jpeg) &nbsp;&nbsp; [备份3](./resources/WHU/WD03.jpeg)
+
 ## 杨培云
 [如何看待杨培云律师力挺杨景媛？](https://www.zhihu.com/question/1934306597443723644)
 
