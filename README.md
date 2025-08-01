@@ -101,6 +101,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [武汉大学校长张平文：正在处理“学生性骚扰指控被驳回”事件](https://news.qq.com/rain/a/20250731A0AESM00)
 
+[武大校长回应是否撤回「图书馆事件」肖同学的处分，称正在处理，何时公布结果要等上级安排，如何看待此事？](https://www.zhihu.com/question/1934321917986301212)
+
 [如何评价武大诬告案相关问题已全部退出热榜（2025.07.31）?](https://www.zhihu.com/question/1934368222930506156)
 
 # 群口啾唧
