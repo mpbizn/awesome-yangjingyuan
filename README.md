@@ -1,3 +1,5 @@
+# 杨景媛事件记录
+
 > If you are neutral in situations of injustice, you have chosen the side of the oppressor.
 > <p align="right">— Desmond Tutu</p>
 >
@@ -7,7 +9,7 @@
 # awesome-yangjingyuan
 A curated collection of remarkable stories, images, and insights documenting Yang Jingyuan(杨景媛).
 
-# 背景
+## 背景
 [武汉大学图书馆性骚扰事件](https://zh.wikipedia.org/wiki/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%80%A7%E9%AA%9A%E6%89%B0%E4%BA%8B%E4%BB%B6) - Wiki
 
 [“武大图书馆性骚扰事件”一审宣判！男生患PTSD，女生精神崩溃](https://finance.sina.cn/2025-07-26/detail-infhuzhs1977316.d.html?vt=4&cid=76729&node_id=76729) - Sina
@@ -16,7 +18,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [武漢大學楊景媛誣告事件時間線](https://github.com/ukunruffled/YJY-DOC3) - ukunruffled@github
 
-# 事实文件
+## 事实文件
 2023.10.11 - [武汉大学官网关于性骚扰的情况说明](https://xgb.whu.edu.cn/info/1421/5091.htm) &nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231011.png)
 
 2023.10.13 - [武汉大学官网的处理通报](https://xgb.whu.edu.cn/info/1421/5101.htm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231013.png)
@@ -29,7 +31,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 2025.08.01 - [武汉大学 - 情况通报](https://www.whu.edu.cn/info/5231/257044.htm)
 
-# 相关仓库
+## 相关仓库
 |仓库| 简介|
 |---|---|
 |[judgment-of-yangjingyuan](https://github.com/ExposeYangJingyuan/judgment-of-yangjingyuan)|杨景媛诉肖某某性骚扰损害责任纠纷一审民事判决书|
@@ -40,8 +42,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |[YJY-DOC2](https://github.com/ukunruffled/YJY-DOC2)| 武漢大學楊景媛誣告風波 |
 
 
-# 社会讨论
-## 事件评论
+## 社会讨论
+### 事件评论
 | 时间 | 发言者 | 链接 | 备份 |
 |---|---|---|---|
 |2025.07.26|追风小叶|[类似事件合集第三期：武汉知名大学图书馆事件](https://www.bilibili.com/video/BV1MM88zsED5)||
@@ -58,7 +60,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.08.01|N/A|[武大图书馆性骚扰案，都编成相声了，太有才了！](https://www.bilibili.com/video/BV1b7hJzhE5j)||
 |2025.08.01|是小冰心啊|[小冰心，武汉大学的“毒妇”会坐牢吗？](https://www.bilibili.com/video/BV1WShnzbEGe)||
 
-## 论文解析
+### 论文解析
 
 > 更多信息参考 [YJYpaper](https://github.com/zouzhekang/YJYpaper "一个用来记录武汉大学杨景媛论文问题的仓库")
 
@@ -69,30 +71,30 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.31|水论文的程序猿|[三探武大杨某媛“垃圾”硕士论文，不配“优秀”二字，武汉大学别装死了，早日把它下架息事宁人，武大图书馆诬告事件](https://www.bilibili.com/video/BV1y68yzZEHi)|
 |2025.08.01|水论文的程序猿|[四探武大“数学大师”杨某媛硕士论文，0.534=0.54，5.4-3.2=2.1，0.01%=1:1000，103亿下降到103亿，武大图书馆诬告事件，诚挚道歉](https://www.bilibili.com/video/BV1gehnzzENA)|
 
-# 相关高校
-## 武汉大学
+## 相关高校
+### 武汉大学
 
-### 2025.07.22
+#### 2025.07.22
 
 [如何看待武汉大学B站官号发布的动态「老柳蜩螗噪，荒庭熠熠流」，或暗讽网络舆论?](https://www.zhihu.com/question/1934023715462571246)
 
-### 2025.07.25
+#### 2025.07.25
 
 [武大微博 - 波伏娃(原贴已删，此为备份)](./resources/WHU/whu-bfw.png)
 
 [如何看待武汉大学官博发布波伏娃以及冻肉内容？](https://www.zhihu.com/question/1933450996719280624)
 
-### 2025.07.27 
+#### 2025.07.27 
 
 [武大微博 - 冻肉](https://m.weibo.cn/status/5192967519994708)
 
 [如何看待武汉大学微博在近期分享冻肉保存相关知识?](https://www.zhihu.com/question/1932940742252270053)
 
-### 2025.07.28
+#### 2025.07.28
 
 [武汉大学微博开启「一键防护」](./resources/WHU/whu_weibo.jpg)
 
-### 2025.07.30
+#### 2025.07.30
 
 [如何看待武汉大学隐藏微博账号并删除处分肖同学通告？](https://www.zhihu.com/question/1933683517658731670)
 
@@ -100,7 +102,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [武大微博 - 翻过今天这页便是新章，明天自会带着晨光走来](https://m.weibo.cn/detail/5194250976233015)
 
-### 2025.07.31
+#### 2025.07.31
 
 [武大回应法院驳回对性骚扰男生指控，工作人员表示：这边并不掌握学校对该事件最新的处理情况](https://cj.sina.com.cn/articles/view/5952915720/v162d249080670283a8)
 
@@ -112,21 +114,21 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [如何评价武大诬告案相关问题已全部退出热榜（2025.07.31）?](https://www.zhihu.com/question/1934368222930506156)
 
-### 2025.08.01
+#### 2025.08.01
 
 [武汉大学：已组建专班，正对肖某某纪律处分、杨某某学位论文等进行全面调查复核！充分尊重司法判决结果](https://www.nbd.com.cn/articles/2025-08-01/3998160.html)
 
 [武汉大学通报，对肖某某纪律处分、杨某某学位论文等进行全面调查复核，此次事件暴露了哪些问题？](https://www.zhihu.com/question/1934664649212683483)
 
-## 香港浸会大学
+### 香港浸会大学
 
-### 2025.07.28
+#### 2025.07.28
 [香港浸会大学回应近日媒体报道](https://m.weibo.cn/detail/5193454142620542)
 
 [香港浸会大学为什么不正面处理诬告女却把皮球踢给持续沉默的武大？](https://www.zhihu.com/question/1933644341206840599)
 
-# 群口啾唧
-## 粉衣孙叔
+## 群口啾唧
+### 粉衣孙叔
 [如何评价答主「李然于心」在发布武汉大学女学生杨景媛论文造假事件相关视频后遭上门警告？](https://www.zhihu.com/question/1933690399068787181)
 
 [「李然于心」被粉衣孙叔等四位蜀黍上门 20250729](https://www.bilibili.com/video/BV14V8CztEtV) &nbsp;&nbsp;&nbsp;&nbsp; [备份](./resources/Liranyuxin/李然于心01.mp4)
@@ -135,12 +137,12 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [「李然于心」第二次回应 20250731](https://www.bilibili.com/video/BV1G281zCEN2)  &nbsp;&nbsp;&nbsp;&nbsp; [备份](./resources/Liranyuxin/李然于心03.mp4)
 
-## 武汉大学招生群
+### 武汉大学招生群
 [武大招生群踢人事件：不是哥们，武大老师这么刚的吗（帖子已被删除）](https://tieba.baidu.com/p/9916607023)
 
 - [备份1](./resources/WHU/WD01.jpeg) &nbsp;&nbsp; [备份2](./resources/WHU/WD02.jpeg) &nbsp;&nbsp; [备份3](./resources/WHU/WD03.jpeg)
 
-## 杨培云
+### 杨培云
 [如何看待杨培云律师力挺杨景媛？](https://www.zhihu.com/question/1934306597443723644)
 
 [杨培云：官司败诉不等于诬告，武汉大学诬陷案的律师阴到没边了](https://www.bilibili.com/video/BV1Yyh7zNEny)
@@ -150,10 +152,10 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 [本人现向浙江六善律所、杭州律协、杭州上城区**局举报杨培云律师](https://tieba.baidu.com/p/9919299508)
 
 
-## 丁雅清
+### 丁雅清
 [如何看待杨培云律师力挺杨景媛？](https://www.zhihu.com/question/1934306597443723644/answer/1934584216273805473)
 
-## 微信公众号 - 三月云（已被封号）
+### 微信公众号 - 三月云（已被封号）
 [公众号](./resources/syy/syy-01.jpg)
 
 [截屏01](./resources/syy/syy-02.jpg)
@@ -165,20 +167,20 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 [截屏07](./resources/syy/syy-08.jpg)
 [截屏08](./resources/syy/syy-09.jpg)
 
-# 人员信息
-## 杨景媛
-- [版本1](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3138903812) [备份](./resources/YJY/YJY01.pdf)
+## 人员信息
+### 杨景媛
+- [版本1](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3138903812)
 
 - [版本2](https://github.com/zouzhekang/YJYpaper/issues/76#issue-3282285124)
 
 - 法律职业资格证书编号：A20214201061927 &nbsp;&nbsp;&nbsp;&nbsp; [2022年4月授予法律职业资格人员名单](https://www.moj.gov.cn/pub/sfbgwapp/zwgk/zwgkxzxk/202205/t20220523_455603.html) [备份(第1910页第1行)](./resources/YJY/202204.pdf)
 
-## 疑似家属
+### 疑似家属
 - [Telegram](https://t.me/zhinared/8145)
 
 - [Github](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3141256493) 
 
-## 杨景媛律师：丁雅清
+### 杨景媛律师：丁雅清
 
 - [百度百科](https://baike.baidu.com/item/%E4%B8%81%E9%9B%85%E6%B8%85/50354712)
 
@@ -193,7 +195,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 - [执业公示](./resources/Dingyaqing/dyq.webp)
 
 
-## 杨培云
+### 杨培云
 
 - [执业公示](./resources/YPY/YPY.jpg)
 
