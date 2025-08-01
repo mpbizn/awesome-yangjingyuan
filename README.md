@@ -105,6 +105,14 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [如何评价武大诬告案相关问题已全部退出热榜（2025.07.31）?](https://www.zhihu.com/question/1934368222930506156)
 
+### 2025.08.01
+
+[武汉大学 - 情况通报](https://www.whu.edu.cn/info/5231/257044.htm)
+
+[武汉大学：已组建专班，正对肖某某纪律处分、杨某某学位论文等进行全面调查复核！充分尊重司法判决结果](https://www.nbd.com.cn/articles/2025-08-01/3998160.html)
+
+[武汉大学通报，对肖某某纪律处分、杨某某学位论文等进行全面调查复核，此次事件暴露了哪些问题？](https://www.zhihu.com/question/1934664649212683483)
+
 # 群口啾唧
 ## 粉衣孙叔
 [如何评价答主「李然于心」在发布武汉大学女学生杨景媛论文造假事件相关视频后遭上门警告？](https://www.zhihu.com/question/1933690399068787181)
