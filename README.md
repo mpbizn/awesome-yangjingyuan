@@ -6,7 +6,7 @@
 > 面对不公保持中立，等于站在压迫者一边。
 > <p align="right">— 德斯蒙德·图图</p>
 
-# awesome-yangjingyuan
+## awesome-yangjingyuan
 A curated collection of remarkable stories, images, and insights documenting Yang Jingyuan(杨景媛).
 
 ## 背景
@@ -34,11 +34,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 ## 相关仓库
 |仓库| 简介|
 |---|---|
+|[YJYpaper](https://github.com/zouzhekang/YJYpaper) | 一个用来记录武汉大学杨景媛论文问题的仓库 |
 |[judgment-of-yangjingyuan](https://github.com/ExposeYangJingyuan/judgment-of-yangjingyuan)|杨景媛诉肖某某性骚扰损害责任纠纷一审民事判决书|
 |[exposeyangjingyuan.github.io](https://github.com/ExposeYangJingyuan/exposeyangjingyuan.github.io) | 杨景媛诉肖某某性骚扰损害责任纠纷一审民事判决书网站 |
 |[ReportYangJingYuang](https://github.com/TheChainFistofMan/ReportYangJingYuang) | 武汉性骚扰案诬告女杨景媛在浸信会大学Department of Accountancy, Economics and Finance未来的博士导师是: 占超群 |
 |[YangJY-AcadMisconduct](https://github.com/Estrella-Explore/YangJY-AcadMisconduct) | 🚀 WHU 杨景媛学术不端事件的详细信息 🚀 WHU 楊景媛學術不端事件的詳細資料 🚀 Detailed Information on the WHU Yang Jingyuan |
-|[YJYpaper](https://github.com/zouzhekang/YJYpaper) | 一个用来记录武汉大学杨景媛论文问题的仓库 |
 |[YJY-DOC2](https://github.com/ukunruffled/YJY-DOC2)| 武漢大學楊景媛誣告風波 |
 
 
