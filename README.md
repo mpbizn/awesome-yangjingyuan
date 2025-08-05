@@ -177,13 +177,19 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 [截屏07](./resources/syy/syy-08.jpg)
 [截屏08](./resources/syy/syy-09.jpg)
 
-### 微博 - BeneathCanopy / C銘M67256
+### 微博 - BeneathCanopy / C銘M67256 （已被微博关闭账号）
 
 [微博：冒充武汉大学图书馆事件肖某某“同学”散布不实消息，俩账号被关闭](https://finance.sina.com.cn/roll/2025-08-04/doc-infivezv0248547.shtml)
 
 [如何看待8月3号凌晨，小红书出现大规模造谣抹黑肖同学的帖子和评论？](https://www.zhihu.com/question/1935253806754533520)
 
 [如何看待8月3号凌晨，小红书出现大规模造谣抹黑肖同学的帖子和评论：原始造谣记录](https://www.zhihu.com/question/1935253806754533520/answer/1935477979909187506)
+
+### 微信公众号 - 散装忍冬
+
+[如何看待公众号“散装忍冬”的《被开盒的武大女们》为杨景媛洗白？](https://www.zhihu.com/question/1935134259263289187)
+
+[如何看待公众号“散装忍冬”再次发布《被开盒的武大女们(被迫修改版》?](https://www.zhihu.com/question/1935657516425019844)
 
 ## 人员信息
 ### 杨景媛
