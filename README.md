@@ -60,6 +60,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.08.01|N/A|[武大图书馆性骚扰案，都编成相声了，太有才了！](https://www.bilibili.com/video/BV1b7hJzhE5j)||
 |2025.08.01|是小冰心啊|[小冰心，武汉大学的“毒妇”会坐牢吗？](https://www.bilibili.com/video/BV1WShnzbEGe)||
 |2025.08.02|梅新育|[微博谈武大组建工作专班](https://m.weibo.cn/status/5195005472800978)||
+|2025.08.03|何联毅(清华)/赤石神殿|[江城大学图书馆事件: 量子力学诠释](https://www.bilibili.com/video/BV11EhKzpEg6/)||
 
 ### 论文解析
 
