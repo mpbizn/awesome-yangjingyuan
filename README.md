@@ -54,13 +54,13 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.30|汤家凤|[武汉大学杨某的事情我说几句！](https://www.bilibili.com/video/BV1P8hcz6Eng)||
 |2025.07.30|183的冯律师|[武大图书馆男生被诬告事件，应该怎么合法保护自己权益？](https://www.bilibili.com/video/BV1hzhwzpEKp)||
 |2025.07.30|胡锡进|[胡锡进呼吁武大撤销被诬告性骚扰学生处罚](https://www.zaobao.com.sg/realtime/china/story20250730-7246199)||
-|2025.07.31|何联毅(清华)/赤石神殿|[江城大学图书馆事件: 短剧照进现实？霸凌者必将被反噬！](https://www.bilibili.com/video/BV1Jn8zzTEuD)||
+|2025.07.31|何联毅(清华)<br>赤石神殿|[江城大学图书馆事件: 短剧照进现实？霸凌者必将被反噬！](https://www.bilibili.com/video/BV1Jn8zzTEuD)||
 |2025.07.31|严锋（复旦）|[复旦大学教授谈“武大图书馆”事件：提告方欺人太甚，校方处分不当](https://m.sohu.com/a/919389733_119778)||
-|2025.08.01|海上生明月1566|[武汉大学，文科已死](https://tieba.baidu.com/p/9917555950?pn=1)|[快照1](./resources/tieba/tieba01.jpg) [快照2](./resources/tieba/tieba02.jpg) [快照3](./resources/tieba/tieba03.jpg) [快照4](./resources/tieba/tieba04.jpg)|
+|2025.08.01|海上生明月1566|[武汉大学，文科已死](https://tieba.baidu.com/p/9917555950?pn=1)|[快照1](./resources/tieba/tieba01.jpg) [快照2](./resources/tieba/tieba02.jpg) <br> [快照3](./resources/tieba/tieba03.jpg) [快照4](./resources/tieba/tieba04.jpg)|
 |2025.08.01|N/A|[武大图书馆性骚扰案，都编成相声了，太有才了！](https://www.bilibili.com/video/BV1b7hJzhE5j)||
 |2025.08.01|是小冰心啊|[小冰心，武汉大学的“毒妇”会坐牢吗？](https://www.bilibili.com/video/BV1WShnzbEGe)||
 |2025.08.02|梅新育|[微博谈武大组建工作专班](https://m.weibo.cn/status/5195005472800978)||
-|2025.08.03|何联毅(清华)/赤石神殿|[江城大学图书馆事件: 量子力学诠释](https://www.bilibili.com/video/BV11EhKzpEg6/)||
+|2025.08.03|何联毅(清华)<br>赤石神殿|[江城大学图书馆事件: 量子力学诠释](https://www.bilibili.com/video/BV11EhKzpEg6/)||
 
 ### 论文解析
 
