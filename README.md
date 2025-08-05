@@ -19,6 +19,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 [武漢大學楊景媛誣告事件時間線](https://github.com/ukunruffled/YJY-DOC3) - ukunruffled@github
 
 ## 事实文件
+2023.07.11 - [武汉大学图书馆监控](https://www.bilibili.com/video/BV1cRhuzxEMK)
+
 2023.10.11 - [武汉大学官网关于性骚扰的情况说明](https://xgb.whu.edu.cn/info/1421/5091.htm) &nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231011.png)
 
 2023.10.13 - [武汉大学官网的处理通报](https://xgb.whu.edu.cn/info/1421/5101.htm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231013.png)
