@@ -177,9 +177,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 ## 人员信息
 ### 杨景媛
-- [版本1](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3138903812)
+- [版本1](https://github.com/yangjingyuan0828/awesome-yangjingyuan/issues/21)
 
-- [版本2](https://github.com/zouzhekang/YJYpaper/issues/76#issue-3282285124)
+- [版本2](https://github.com/zouzhekang/YJYpaper/issues/14#issuecomment-3138903812)
+
+- [版本3](https://github.com/zouzhekang/YJYpaper/issues/76#issue-3282285124)
 
 - 法律职业资格证书编号：A20214201061927 &nbsp;&nbsp;&nbsp;&nbsp; [2022年4月授予法律职业资格人员名单](https://www.moj.gov.cn/pub/sfbgwapp/zwgk/zwgkxzxk/202205/t20220523_455603.html) [备份(第1910页第1行)](./resources/YJY/202204.pdf)
 
