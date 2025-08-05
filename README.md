@@ -71,6 +71,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.31|水论文的程序猿|[三探武大杨某媛“垃圾”硕士论文，不配“优秀”二字，武汉大学别装死了，早日把它下架息事宁人，武大图书馆诬告事件](https://www.bilibili.com/video/BV1y68yzZEHi)|
 |2025.08.01|水论文的程序猿|[四探武大“数学大师”杨某媛硕士论文，0.534=0.54，5.4-3.2=2.1，0.01%=1:1000，103亿下降到103亿，武大图书馆诬告事件，诚挚道歉](https://www.bilibili.com/video/BV1gehnzzENA)|
 |2025.08.01|太白金星V博士|[武汉大学硕士论文两个关键错误推翻结论-不要在其他小问题浪费时间](https://www.bilibili.com/video/BV1qPhWzdE2H/)
+|2025.08.04|水论文的程序猿|[五探武大杨某媛硕士论文，101-87=13，从模型的基本设定和实证策略出发，真心希望这是最后一探，武大图书馆诬告事件](https://www.bilibili.com/video/BV1H1tuzDEyA)
 
 ## 相关高校
 ### 武汉大学
