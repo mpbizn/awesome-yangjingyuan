@@ -144,6 +144,10 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 - [备份1](./resources/WHU/WD01.jpeg) &nbsp;&nbsp; [备份2](./resources/WHU/WD02.jpeg) &nbsp;&nbsp; [备份3](./resources/WHU/WD03.jpeg)
 
+[武汉大学新生群](https://tieba.baidu.com/p/9925783569)
+
+- [备份](./resources/tieba/tieba05.jpg)
+
 ### 杨培云
 [如何看待杨培云律师力挺杨景媛？](https://www.zhihu.com/question/1934306597443723644)
 
