@@ -201,6 +201,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 - 法律职业资格证书编号：A20214201061927 &nbsp;&nbsp;&nbsp;&nbsp; [2022年4月授予法律职业资格人员名单](https://www.moj.gov.cn/pub/sfbgwapp/zwgk/zwgkxzxk/202205/t20220523_455603.html) [备份(第1910页第1行)](./resources/YJY/202204.pdf)
 
+- [疑似杨景媛出入境记录](https://t.me/zhinared/8197)
+
 ### 疑似家属
 - [Telegram](https://t.me/zhinared/8145)
 
