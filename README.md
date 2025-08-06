@@ -152,6 +152,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 - [备份](./resources/tieba/tieba05.jpg)
 
+[武汉大学老生告知新生“不想读可以滚”？](https://github.com/user-attachments/assets/0959f704-b3e3-4270-8a6e-035568957240")
+
+- [如何看待武汉大学老生告知新生“不想读可以滚”？](https://www.zhihu.com/question/1934375872879649006)
+
+
 ### 杨培云
 [如何看待杨培云律师力挺杨景媛？](https://www.zhihu.com/question/1934306597443723644)
 
