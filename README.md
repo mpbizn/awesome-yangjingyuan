@@ -191,6 +191,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [如何看待公众号“散装忍冬”再次发布《被开盒的武大女们(被迫修改版》?](https://www.zhihu.com/question/1935657516425019844)
 
+### 微博 - 桃扇er：造谣始作俑者
+[台湾IP造谣者清空微博改ID](https://cj.sina.com.cn/articles/view/1004853823/p3be4da3f0270196nc)
+
+[相关信息](https://t.me/zhinared/8211)
+
 ## 人员信息
 ### 杨景媛
 - [版本1](https://github.com/yangjingyuan0828/awesome-yangjingyuan/issues/21)
