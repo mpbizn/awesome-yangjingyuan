@@ -187,7 +187,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 ### 微信公众号 - 散装忍冬
 
-[如何看待公众号“散装忍冬”的《被开盒的武大女们》为杨景媛洗白？](https://www.zhihu.com/question/1935134259263289187)
+[如何看待公众号“散装忍冬”的《被开盒的武大女们》为杨景媛洗白？](https://www.zhihu.com/question/1935134259263289187) &nbsp;&nbsp;&nbsp;&nbsp; [原文截图（发布时间：2025年08月02日 02:15，安徽）](https://user.guancha.cn/main/content?id=1493885)
 
 [如何看待公众号“散装忍冬”再次发布《被开盒的武大女们(被迫修改版》?](https://www.zhihu.com/question/1935657516425019844)
 
