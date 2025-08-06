@@ -6,7 +6,7 @@
 > 面对不公保持中立，等于站在压迫者一边。
 > <p align="right">— 德斯蒙德·图图</p>
 
-## awesome-yangjingyuan
+## awesome-yangjingyuan / 恶丧魔 - 杨景媛
 A curated collection of remarkable stories, images, and insights documenting Yang Jingyuan(杨景媛).
 
 ## 背景
