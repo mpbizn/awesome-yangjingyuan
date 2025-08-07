@@ -126,6 +126,10 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [武汉大学通报，对肖某某纪律处分、杨某某学位论文等进行全面调查复核，此次事件暴露了哪些问题？](https://www.zhihu.com/question/1934664649212683483)
 
+#### 2025.08.06
+[如何看待网传武大同意杨景媛修改论文?](https://www.zhihu.com/question/1936566134083138548)
+
+
 ### 香港浸会大学
 
 #### 2025.07.28
