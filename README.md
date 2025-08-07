@@ -33,6 +33,16 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 2025.08.01 - [武汉大学 - 情况通报](https://www.whu.edu.cn/info/5231/257044.htm)
 
+## 杨景媛操作
+
+### 论文修改 - 2025.08.06
+
+[如何看待网传武大同意杨景媛修改论文?](https://www.zhihu.com/question/1936566134083138548)
+
+[杨景媛自我审查与数据文档](https://github.com/zouzhekang/YJYpaper/blob/main/Yang's%20self-review/Self-reivew%20README.md)
+
+[最新！杨景媛硕士毕业论文调查审核结果完整版](https://zhuanlan.zhihu.com/p/1936550576902104409)
+
 ## 相关仓库
 |仓库| 简介|
 |---|---|
