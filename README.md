@@ -47,6 +47,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [最新！杨景媛硕士毕业论文调查审核结果完整版](https://zhuanlan.zhihu.com/p/1936550576902104409)
 
+[武汉大学杨某某更新了自己的百度网盘分享内容，向学校和老师道歉并修改论文，网友们能停止追责了么？](https://www.zhihu.com/question/1936537718713742799)
+
 ## 相关仓库
 |仓库| 简介|
 |---|---|
