@@ -35,7 +35,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 ## 杨景媛操作
 
-### 论文修改 - 2025.08.06
+### 杨景媛申请将武汉大学作为共同被告 - 2025.08.03
+
+[如何看待杨景媛申请将武汉大学作为共同被告?](https://www.zhihu.com/question/1935018453539980254)
+
+### 杨景媛提交论文修改 - 2025.08.06
 
 [如何看待网传武大同意杨景媛修改论文?](https://www.zhihu.com/question/1936566134083138548)
 
