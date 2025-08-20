@@ -21,6 +21,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 ## 事实文件
 2023.07.11 - [武汉大学图书馆监控](https://www.bilibili.com/video/BV1cRhuzxEMK)
 
+2023.07.12 & 2023.10.09 - [杨景媛伙同刘迪密谋构陷录音](https://www.bilibili.com/video/BV1PZbAzGE9e)
+
 2023.10.11 - [武汉大学官网关于性骚扰的情况说明](https://xgb.whu.edu.cn/info/1421/5091.htm) &nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231011.png)
 
 2023.10.13 - [武汉大学官网的处理通报](https://xgb.whu.edu.cn/info/1421/5101.htm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [快照](resources/whu.edu.cn/WHU_20231013.png)
