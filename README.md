@@ -121,6 +121,10 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 #### 2025.07.20 - 2025.08.19 杨景媛国际热度力压成都世界运动会，武汉大学完胜清华大学
 <img src="./resources/google_trends.png" width=800>
 
+### Steam
+
+[杨景媛 on Steam](https://store.steampowered.com/app/3941720/)
+
 ## 相关高校
 ### 武汉大学
 
