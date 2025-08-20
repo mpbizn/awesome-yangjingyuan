@@ -116,6 +116,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.08.16|水论文的程序猿|[七探武大杨某媛，其硕士论文一定没问题，错的是我，是无知的网友们，对论文错误进行了错误的分析和解读，武大图书馆污蔑事件](https://www.bilibili.com/video/BV1zWYqzMEzr)|
 
 
+### 数据分析
+
+#### 2025.07.20 - 2025.08.19 杨景媛国际热度力压成都世界运动会，武汉大学完胜清华大学
+<img src="./resources/google_trends.png" width=800>
+
 ## 相关高校
 ### 武汉大学
 
