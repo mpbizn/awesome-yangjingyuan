@@ -108,8 +108,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.07.30|水论文的程序猿|[二探武大杨某媛优秀硕士论文，惊现2.1+3.2=5.4，本视频仅抱着学习借鉴的态度，武汉大学图书馆诬告事件](https://www.bilibili.com/video/BV1jShAzvEvB)|
 |2025.07.31|水论文的程序猿|[三探武大杨某媛“垃圾”硕士论文，不配“优秀”二字，武汉大学别装死了，早日把它下架息事宁人，武大图书馆诬告事件](https://www.bilibili.com/video/BV1y68yzZEHi)|
 |2025.08.01|水论文的程序猿|[四探武大“数学大师”杨某媛硕士论文，0.534=0.54，5.4-3.2=2.1，0.01%=1:1000，103亿下降到103亿，武大图书馆诬告事件，诚挚道歉](https://www.bilibili.com/video/BV1gehnzzENA)|
-|2025.08.01|太白金星V博士|[武汉大学硕士论文两个关键错误推翻结论-不要在其他小问题浪费时间](https://www.bilibili.com/video/BV1qPhWzdE2H/)
-|2025.08.04|水论文的程序猿|[五探武大杨某媛硕士论文，101-87=13，从模型的基本设定和实证策略出发，真心希望这是最后一探，武大图书馆诬告事件](https://www.bilibili.com/video/BV1H1tuzDEyA)
+|2025.08.01|太白金星V博士|[武汉大学硕士论文两个关键错误推翻结论-不要在其他小问题浪费时间](https://www.bilibili.com/video/BV1qPhWzdE2H/)|
+|2025.08.04|水论文的程序猿|[五探武大杨某媛硕士论文，101-87=13，从模型的基本设定和实证策略出发，真心希望这是最后一探，武大图书馆诬告事件](https://www.bilibili.com/video/BV1H1tuzDEyA)|
+|2025.08.07|水论文的程序猿|[六探武大杨某媛，网友爆出惊天文件，企图修改已上架在知网的硕士论文，武大图书馆污蔑事件](https://www.bilibili.com/video/BV1g9tvz3EfG)|
+|2025.08.16|水论文的程序猿|[七探武大杨某媛，其硕士论文一定没问题，错的是我，是无知的网友们，对论文错误进行了错误的分析和解读，武大图书馆污蔑事件](https://www.bilibili.com/video/BV1zWYqzMEzr)|
+
 
 ## 相关高校
 ### 武汉大学
