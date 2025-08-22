@@ -257,7 +257,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 [相关信息](https://t.me/zhinared/8211)
 
-## 人员信息
+## 相关人员联系方式
 ### 杨景媛
 - [版本1](https://github.com/yangjingyuan0828/awesome-yangjingyuan/issues/21)
 
