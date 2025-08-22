@@ -295,6 +295,12 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 - [执业公示](./resources/YPY/YPY.jpg)
 
+- [杨培云 - 联系方式](https://t.me/suoyaotadashangTV/307)
+
+### 武汉大学辅导员：刘迪
+
+- [刘迪 - 联系方式](https://t.me/zhinared/8261)
+
 
 
 
