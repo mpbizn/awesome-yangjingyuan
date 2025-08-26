@@ -202,7 +202,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 - [备份1](./resources/WHU/WD01.jpeg) &nbsp;&nbsp; [备份2](./resources/WHU/WD02.jpeg) &nbsp;&nbsp; [备份3](./resources/WHU/WD03.jpeg)
 
-[武汉大学新生群](https://tieba.baidu.com/p/9925783569)
+[武汉大学新生群禁言](https://tieba.baidu.com/p/9925783569)
 
 - [备份](./resources/tieba/tieba05.jpg)
 
@@ -210,7 +210,11 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 - [如何看待武汉大学老生告知新生“不想读可以滚”？](https://www.zhihu.com/question/1934375872879649006)
 
-- [疑似发帖人](https://t.me/zhinared/8215)
+- [疑似武大发帖人：吴雅兰（十方独立）](https://t.me/zhinared/8215)
+
+[武大新生群2025：武大学生不用讲道德，只要统治国民](https://tieba.baidu.com/p/9934305952)
+
+- [备份](./resources/WHU/whu_stu2_min.jpg)
 
 
 ### 杨培云
