@@ -274,7 +274,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 - [疑似杨景媛出入境记录](https://t.me/zhinared/8197)
 
-- 补充邮箱：jingyuan0828@163.com（ 来源：https://zhuanlan.zhihu.com/p/1936550576902104409 ）
+- 补充邮箱：jingyuan0828@163.com（ 来源：https://zhuanlan.zhihu.com/p/1936550576902104409 ） yangjingyuan@whu.edu.cn
 
 - 疑似其 Github：[https://github.com/jingyuan0828](https://github.com/jingyuan0828)
 
