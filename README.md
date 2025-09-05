@@ -71,6 +71,8 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 
 2025.08.22 [🕛12点，突破30万次，达到300342](./resources/YJY/YjyPaperDownload_300342.png)
 
+2025.09.05 [🕛12点，达到313192次](./resources/YJY/YjyPaperDownload_313192.jpg) [详情](./resources/YJY/YjyPaper.jpg)
+
 ## 相关仓库
 |仓库| 简介|
 |---|---|
