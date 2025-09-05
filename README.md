@@ -116,6 +116,7 @@ A curated collection of remarkable stories, images, and insights documenting Yan
 |2025.08.04|水论文的程序猿|[五探武大杨某媛硕士论文，101-87=13，从模型的基本设定和实证策略出发，真心希望这是最后一探，武大图书馆诬告事件](https://www.bilibili.com/video/BV1H1tuzDEyA)|
 |2025.08.07|水论文的程序猿|[六探武大杨某媛，网友爆出惊天文件，企图修改已上架在知网的硕士论文，武大图书馆污蔑事件](https://www.bilibili.com/video/BV1g9tvz3EfG)|
 |2025.08.16|水论文的程序猿|[七探武大杨某媛，其硕士论文一定没问题，错的是我，是无知的网友们，对论文错误进行了错误的分析和解读，武大图书馆污蔑事件](https://www.bilibili.com/video/BV1zWYqzMEzr)|
+|2025.09.04|水论文的程序猿|[八探武大杨某论文：武汉大学开学了，部分视频被退回锁定](https://www.bilibili.com/video/BV1dKaDzAEMC/)|
 
 
 ### 数据分析
